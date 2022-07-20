@@ -15,6 +15,7 @@ from os import system
 colorama.init()
 
 system("title " + "Lunar Tool,   Made By Reaper#1234,   Github: github.com/ReaperSkid")
+os.system('mode con: cols=150 lines=30')
 
 banner = (Fore.LIGHTBLUE_EX + """                                                       
  ██▓     █    ██  ███▄    █  ▄▄▄       ██▀███     ▄▄▄█████▓ ▒█████   ▒█████   ██▓          | Discord Tools                  | IP Tools
